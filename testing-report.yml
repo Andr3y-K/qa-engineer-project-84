@@ -1,0 +1,28 @@
+---
+- summary: |
+    Поиск товара по ключевому слову
+  status: pass
+  
+- summary: |
+    Поиск товара по категории
+  status: pass
+
+- summary: |
+    Фильтрация товаров
+  status: pass
+
+- summary: |
+    Мобильная версия сайта
+  status: fail
+
+- summary: |
+    Просмотр и описание товаров
+  status: pass
+
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Доступность сайта на разных устройствах
+  status: fail
