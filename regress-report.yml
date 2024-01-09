@@ -45,7 +45,7 @@
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
-    2. В категории "Цена" - "До", прописать отрицательное число
+    2. В "Цена" - "До", прописать отрицательное число
   expected-result: |
     Сайт не даст отобразить отрицательное значение
   actual-result: |
