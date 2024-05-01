@@ -8,7 +8,7 @@
   status: pass
 
 - summary: |
-    Фильтрация товаров
+    Проверка фильтрации по категории и бренду
   status: pass
 
 - summary: |
@@ -16,7 +16,7 @@
   status: fail
 
 - summary: |
-    Просмотр и описание товаров
+    Проверка открытия карточки товара
   status: pass
 
 - summary: |
