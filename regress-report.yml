@@ -1,4 +1,5 @@
 ---
+test-cases:
 - summary: |
     Поиск товара по ключевому слову
   status: pass
@@ -25,7 +26,8 @@
 - summary: |
     Доступность сайта на разных устройствах
   status: pass
----
+
+bugreports:
 - summary: |
     Сервер не получает данные о языке клиента
   environment: |
