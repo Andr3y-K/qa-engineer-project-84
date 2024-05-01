@@ -2,7 +2,7 @@
 - summary: |
     Сервер не получает данные о языке клиента
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -14,7 +14,7 @@
 - summary: |
     Чекбокс "в наличие" скрывает ВЕСЬ ассортимент
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -27,7 +27,7 @@
 - summary: |
     Фильтр по цене можно указать в отрицательных значениях
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -40,7 +40,7 @@
 - summary: |
     При оформление заказа корзина не сбрасывается
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -55,7 +55,7 @@
 - summary: |
     Корзина не сбрасывается при очистке и обновление страницы
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -72,7 +72,7 @@
 - summary: |
     Невозможно отредактировать колличество товаров при добавление в корзину
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -86,7 +86,7 @@
 - summary: |
     Фильтр-вкладыш "Категория" не отображает все категории
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -99,7 +99,7 @@
 - summary: |
     Фильтр "Производитель" не отображает всех производителей
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -112,7 +112,7 @@
 - summary: |
     Фильтр "Цена" реагирует на прокрутку страницы колесиком мыши
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -128,7 +128,7 @@
 - summary: |
     Нет возможности подробно рассмотреть товар
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -142,7 +142,7 @@
 - summary: |
     Не работают хэтеги в карточке товаров
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
@@ -156,7 +156,7 @@
 - summary: |
     Колличество товаров на складе остается не изменным
   environment: |
-    Google Chrome   120.0.6099.129 (Официальная сборка) (64 бит)
+    Google Chrome    120.0.6099.129 (Официальная сборка) (64 бит)
     ОС Windows 10 Pro 22H2
   steps-to-reproduce: |
     1. Зайти на страницу https://hexlet-products-store.vercel.app/
