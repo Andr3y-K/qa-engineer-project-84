@@ -21,8 +21,7 @@
   test-data: |
     no-data
   steps:
-    - Нажать "Category"
-    - Выбрать "laptops"
+    - Выбрать любую категорию, например - laptops
   expected-result: |
     Пользователь должен увидеть все позиции товаров из выбранной категории
 
@@ -33,10 +32,10 @@
   prerequisites: |
     no-data
   test-data: |
-    Категория = laptops Фильтр = Apple
+    no-data
   steps:
-    - Выбрать "laptops"
-    - Выбрать "Apple"
+    - Выбрать любую категорию, например - laptops
+    - Выбрать любой товар, например - Apple
   expected-result: |
     Пользователь должен увидеть все позиции товаров по выбранному фильтру
 
